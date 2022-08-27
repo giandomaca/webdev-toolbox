@@ -6,7 +6,7 @@ A curated list of web development tools.
 
 [CSS reference by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-[A Complete Guide to Flexbox **by CSS Tricks**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[A Complete Guide to Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 [A Complete Guide to Grid by CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
@@ -19,6 +19,8 @@ A curated list of web development tools.
 ## Testing
 
 ## Accessibility
+
+[Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
 ## Colors
 
