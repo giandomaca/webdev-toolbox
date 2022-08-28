@@ -1,8 +1,8 @@
-# Web Development Toolbox
+# 🛠 Web Development Toolbox
 
 A curated list of web development tools.
 
-- [Web Development Toolbox](#web-development-toolbox)
+- [🛠 Web Development Toolbox](#-web-development-toolbox)
   - [HTML](#html)
   - [CSS](#css)
   - [Javascript](#javascript)
